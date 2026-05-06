@@ -7,7 +7,7 @@
 
 <!-- Typing SVG Animation -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
+  <a>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2496ED&center=true&vCenter=true&width=500&lines=Aspiring+DevOps+Engineer;Cloud+Infrastructure+Enthusiast;Computer+Science+Undergrad;Building+%26+Automating+Systems" alt="Typing SVG" />
   </a>
 </div>
