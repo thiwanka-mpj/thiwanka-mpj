@@ -3,7 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there!%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=I'm%20Janith%20Thiwanka&descAlignY=55&descAlign=62" alt="Header Wave"/>
 </div>
 
-<h1 align="center">👨‍💻 Hi there, I'm Janith Thiwanka</h1>
 <h3 align="center">B.Sc. (Hons) Computer Science · University of Sri Jayewardenepura</h3>
 
 <!-- Typing SVG Animation -->
