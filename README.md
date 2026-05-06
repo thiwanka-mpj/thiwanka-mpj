@@ -1,6 +1,6 @@
 <!-- Header with waving animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=I'm%20Janith%20Thiwanka&descAlignY=55&descAlign=62" alt="Header Wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there!%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=I'm%20Janith%20Thiwanka&descAlignY=55&descAlign=62" alt="Header Wave"/>
 </div>
 
 <h1 align="center">👨‍💻 Hi there, I'm Janith Thiwanka</h1>
