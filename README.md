@@ -1,5 +1,17 @@
-<h1 align="center">Hey there 👋 I'm Janith Thiwanka</h1>
-<h3 align="center">B.Sc. (Hons) Computer Science · University of Sri Jayewardenepura · 4th Year</h3>
+<!-- Header with waving animation -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=I'm%20Janith%20Thiwanka&descAlignY=55&descAlign=62" alt="Header Wave"/>
+</div>
+
+<h1 align="center">👨‍💻 Hi there, I'm Janith Thiwanka</h1>
+<h3 align="center">B.Sc. (Hons) Computer Science · University of Sri Jayewardenepura</h3>
+
+<!-- Typing SVG Animation -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2496ED&center=true&vCenter=true&width=500&lines=Aspiring+DevOps+Engineer;Cloud+Infrastructure+Enthusiast;Computer+Science+Undergrad;Building+%26+Automating+Systems" alt="Typing SVG" />
+  </a>
+</div>
 
 <br/>
 
@@ -11,80 +23,102 @@
   </em>
 </p>
 
-<br/>
+<p align="center">
+  <!-- Visitor Badge -->
+  <img src="https://komarev.com/ghpvc/?username=thiwanka-mpj&label=Profile%20Views&color=2496ED&style=flat-square" alt="Profile Views" />
+</p>
 
 ---
 
 ### 🔭 What I'm currently doing
 
-- 📚 Finishing my B.Sc. (Hons) in Computer Science at **University of Sri Jayewardenepura**
-- 🛠️ Learning **DevOps engineering** — containers, orchestration, automation, and cloud infrastructure
-- 🧪 Building hands-on projects to apply everything I learn (see upcoming projects below)
+- 📚 Finishing my **B.Sc. (Hons) in Computer Science** at the University of Sri Jayewardenepura.
+- 🛠️ Deep diving into **DevOps engineering** — containers, orchestration, automation, and cloud infrastructure.
+- 🧪 Building hands-on projects to apply scalable architecture principles.
 - 📖 Exploring: `Docker` · `Kubernetes` · `GitHub Actions` · `Terraform` · `Linux`
 
 ---
 
 ### 🧰 Tech Stack & Tools
 
-#### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+*Hover over the icons to see the modern animation effect!*
 
-#### DevOps & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+<div align="center">
+  
+  **Languages**<br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,bash,c&theme=dark" alt="Languages" />
+  </a>
+  
+  <br><br>
+  
+  **DevOps & Infrastructure**<br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,terraform,linux,nginx&theme=dark" alt="DevOps" />
+  </a>
+  
+  <br><br>
+  
+  **Cloud & Monitoring**<br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,prometheus,grafana&theme=dark" alt="Cloud" />
+  </a>
 
-#### Cloud & Monitoring
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+  <br><br>
+  
+  **Tools & Platforms**<br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,postman&theme=dark" alt="Tools" />
+  </a>
 
-#### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thiwanka-mpj&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiwanka-mpj&layout=compact&theme=default&hide_border=true" height="160" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=thiwanka-mpj&theme=default&hide_border=true" alt="GitHub Streak"/>
-</p>
+</div>
 
 ---
 
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thiwanka-mpj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiwanka-mpj&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=thiwanka-mpj&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
+### 🐍 Contribution Graph (GitHub Snake)
+
+<div align="center">
+  <!-- Note: To make this animation work, you need to set up a GitHub Action. See instructions below! -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thiwanka-mpj/thiwanka-mpj/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thiwanka-mpj/thiwanka-mpj/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thiwanka-mpj/thiwanka-mpj/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
 
 ### 🎓 Education
 
-**B.Sc. (Hons) in Computer Science**  
-University of Sri Jayewardenepura, Sri Lanka · 2021 – Present (4th Year)
+| Degree / Certificate | Institution | Duration |
+| :--- | :--- | :--- |
+| **B.Sc. (Hons) in Computer Science** | University of Sri Jayewardenepura, Sri Lanka | *2021 – Present (4th Year)* |
+| **School** | Bandaranayake College Gampaha, Sri Lanka | *2013 – 2018* |
 
- 
-Bandaranayake College Gampaha, Sri Lanka · 2013 – 2018
 ---
 
 ### 📫 Connect with me
 
-<p align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/janith-thiwanka-718a43368/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:thiwankampj@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</p>
-
----
+</div>
