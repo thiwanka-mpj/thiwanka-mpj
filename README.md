@@ -14,9 +14,9 @@
 
 <p align="center">
   <em>
-    Final-year Computer Science Undergraduate on a mission to become a DevOps engineer. <br/>
-    I'm learning how to build, automate, and ship software reliably — <br/>
-    from writing Dockerfiles to designing CI/CD pipelines from scratch.
+    Final-year Computer Science Undergraduate and a Aspiring DevOps engineer. <br/>
+    I'm learning how to improve the application delivery,<br/>
+    By ensuring the proper automation and maintaining the quality.
   </em>
 </p>
 
