@@ -40,23 +40,25 @@
 
 <div align="center">
   
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,github,githubactions,docker,kubernetes,terraform,nginx&theme=dark" alt="DevOps" />
+  </a>
+  
+  <br>
+  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,c&theme=dark" alt="Languages" />
   </a>
   
-  <br><br>
+  <br>
   
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,terraform,linux,nginx&theme=dark" alt="DevOps" />
-  </a>
-  
-  <br><br>
+ 
   
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,prometheus,grafana&theme=dark" alt="Cloud" />
   </a>
 
-  <br><br>
+  <br>
   
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,vscode,postman&theme=dark" alt="Tools" />
