@@ -41,30 +41,17 @@
 <div align="center">
   
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,github,githubactions,docker,kubernetes,terraform,nginx&theme=dark" alt="DevOps" />
+    <img src="https://skillicons.dev/icons?i=linux,aws,git,github,githubactions,docker,jenkins,kubernetes,ansible,terraform&theme=dark" alt="DevOps" />
   </a>
   
   <br>
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c&theme=dark" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=prometheus,grafana,python,java,c,vscode,postman,nginx&theme=dark" alt="Languages" />
   </a>
   
   <br>
   
- 
-  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,prometheus,grafana&theme=dark" alt="Cloud" />
-  </a>
-
-  <br>
-  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,postman&theme=dark" alt="Tools" />
-  </a>
-
-</div>
 
 ---
 
@@ -83,15 +70,10 @@
 
 ---
 
-### 🐍 Contribution Graph (GitHub Snake)
+### Contribution
 
 <div align="center">
-  <!-- Note: To make this animation work, you need to set up a GitHub Action. See instructions below! -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thiwanka-mpj/thiwanka-mpj/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thiwanka-mpj/thiwanka-mpj/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thiwanka-mpj/thiwanka-mpj/output/github-contribution-grid-snake.svg">
-  </picture>
+ ![My GitHub Contribution Grid](https://ghchart.rshah.org/thiwanka-mpj)
 </div>
 
 ---
@@ -100,7 +82,7 @@
 
 | Degree / Certificate | Institution | Duration |
 | :--- | :--- | :--- |
-| **B.Sc. (Hons) in Computer Science** | University of Sri Jayewardenepura, Sri Lanka | *2021 – Present (4th Year)* |
+| **B.Sc. (Hons) in Computer Science** | University of Sri Jayewardenepura, Sri Lanka | *2023 – Present (4th Year)* |
 | **School** | Bandaranayake College Gampaha, Sri Lanka | *2013 – 2018* |
 
 ---
