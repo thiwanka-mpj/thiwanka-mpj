@@ -58,22 +58,7 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thiwanka-mpj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiwanka-mpj&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=thiwanka-mpj&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
-### Contribution
-
-<div align="center">
- ![My GitHub Contribution Grid](https://ghchart.rshah.org/thiwanka-mpj)
 </div>
 
 ---
