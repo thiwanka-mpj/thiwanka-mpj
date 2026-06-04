@@ -44,7 +44,7 @@
   
   **Languages**<br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,bash,c&theme=dark" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=python,java,c&theme=dark" alt="Languages" />
   </a>
   
   <br><br>
