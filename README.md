@@ -30,7 +30,7 @@
 ### 🔭 What I'm currently doing
 
 - 📚 Finishing my **B.Sc. (Hons) in Computer Science** at the University of Sri Jayewardenepura.
-- 🛠️ Deep diving into **DevOps engineering** — containers, orchestration, automation, and cloud infrastructure.
+- 🛠️ Deep diving into **DevOps engineering** : containers, orchestration, automation, and cloud infrastructure.
 - 🧪 Building hands-on projects to apply scalable architecture principles.
 - 📖 Exploring: `Docker` · `Kubernetes` · `GitHub Actions` · `Terraform` · `Linux`
 
@@ -38,32 +38,26 @@
 
 ### 🧰 Tech Stack & Tools
 
-*Hover over the icons to see the modern animation effect!*
-
 <div align="center">
   
-  **Languages**<br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,c&theme=dark" alt="Languages" />
   </a>
   
   <br><br>
   
-  **DevOps & Infrastructure**<br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,terraform,linux,nginx&theme=dark" alt="DevOps" />
   </a>
   
   <br><br>
   
-  **Cloud & Monitoring**<br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,prometheus,grafana&theme=dark" alt="Cloud" />
   </a>
 
   <br><br>
   
-  **Tools & Platforms**<br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,vscode,postman&theme=dark" alt="Tools" />
   </a>
